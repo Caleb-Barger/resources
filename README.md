@@ -11,5 +11,7 @@ Helpful links to websites and tools that I love using!
  - [LinkedIn](https://www.linkedin.com/feed/)
  - [Twitter](https://twitter.com/?lang=en)
  - [Youtube](https://www.youtube.com/)
+ - [Medium](https://medium.com/)
+ - [Dev.to](https://dev.to/settings/ux)
 
- 
+
